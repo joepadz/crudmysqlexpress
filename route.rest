@@ -1,0 +1,5 @@
+GET http://localhost:8080/api/chirps
+
+
+###
+GET http://localhost:8080/api/chirps/1
